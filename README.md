@@ -1,7 +1,8 @@
 ## Hi!
 <div>
-   <a href="https://www.linkedin.com/in/matheussouzagonzalez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a text-decoretion="none" href="https://matheusgonzalezdev.netlify.app/" target="_blank">Website</a>
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:contato@fernandakipper.com)
 </div>
 <div>
   <h2>My name is Matheus Gonzalez</h2>
