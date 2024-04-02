@@ -6,7 +6,7 @@
 
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
-## My name is Fernanda Kipper
+## My name is Matheus Gonzalez
 (Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Engineer @[Itaú](https://www.itau.com.br/)
 - 🏆 Microsoft MVP
@@ -17,6 +17,6 @@
 
 <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgonzalez01&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgonzalez91&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
