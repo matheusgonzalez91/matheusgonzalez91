@@ -1,7 +1,7 @@
 ## Hi!
-<div align="center">
+<div align="center">]
+  <h2>My name is Matheus Gonzalez</h2>
   <a href="https://github.com/matheusgonzalez91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgonzalez91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgonzalez91&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
